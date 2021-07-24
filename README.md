@@ -1,15 +1,23 @@
 # Election-Monitoring-System
+
+
 Follow the steps below to download, install, and run this project
 Dependencies
+
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
 
 NPM: https://nodejs.org
+
 Truffle: https://github.com/trufflesuite/truffle
+
 Ganache: http://truffleframework.com/ganache/
+
 Metamask: https://metamask.io/
+
 
 STEP 1: Clone the project
  git clone https://github.com/yashroy3/Election-DApp.git
+
 STEP 2: Install dependencies
   cd Election-DApp
   cd client
