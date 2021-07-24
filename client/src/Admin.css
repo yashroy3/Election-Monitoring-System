@@ -1,0 +1,22 @@
+.nav{
+    position:absolute;
+    top:0;
+    width:100%;
+    background: #43D6EA;
+    /* height:3em; */
+}
+
+li,a{
+    display:inline;
+    background:inherit;
+    /* margin:1em; */
+    text-decoration: none;
+    font-size:1em;
+    color:black;
+}
+.rightMenu{
+    margin-top:2.4em;
+    margin-left:1em;
+    margin-right:1em;
+    float:right;
+}
